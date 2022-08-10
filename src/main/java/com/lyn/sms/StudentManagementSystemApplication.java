@@ -28,5 +28,4 @@ public class StudentManagementSystemApplication implements CommandLineRunner {
 //		studentRepository.save(s3);
 	}
 	
-	
 }
